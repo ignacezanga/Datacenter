@@ -4,3 +4,5 @@ next verion 2
 next version 3
 
 the new class of 18/9/2023
+
+learning git for second time
